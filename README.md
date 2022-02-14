@@ -1,0 +1,2 @@
+# ShellNotes
+Some shell scripts
